@@ -8,7 +8,7 @@ HTML, CSS, Javascript, GH-Pages, React
 
 # Link:
 
-https://jonyung1205.github.io/clicky-game/
+https://jonyung1205.github.io/new-clicky/
 
 # Introduction:
 
