@@ -1,3 +1,17 @@
+# Clicky Game:
+
+Thirteen assignment on creating a clicky game using React.
+
+# Tools/Languages:
+
+HTML, CSS, Javascript, GH-Pages, React
+
+# Link:
+
+https://jonyung1205.github.io/clicky-game/
+
+# Introduction:
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
