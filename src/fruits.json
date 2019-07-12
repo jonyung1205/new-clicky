@@ -1,0 +1,73 @@
+[{
+        "id": 1,
+        "name": "Apple",
+        "image": "http://pngimg.com/uploads/apple/apple_PNG12423.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Orange",
+        "image": "https://clipartion.com/wp-content/uploads/2015/11/orange-clipart-2-clipart-kids-pedia.jpg",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "image": "http://pngimg.com/uploads/banana/banana_PNG839.png",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Watermelon",
+        "image": "http://pngimg.com/uploads/watermelon/watermelon_PNG2652.png",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Apricot",
+        "image": "https://www.freepngimg.com/thumb/apricot/37430-6-apricot-transparent.png",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Pear",
+        "image": "https://www.freepngimg.com/thumb/pear/3-pear-png-image.png",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "Lemon",
+        "image": "http://pngimg.com/uploads/lemon/lemon_PNG25204.png",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Peach",
+        "image": "https://purepng.com/public/uploads/large/purepng.com-peach-cutpeachfruittastystickdeliciousfood-33152258355519uoh.png",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Strawberry",
+        "image": "http://pngimg.com/uploads/strawberry/strawberry_PNG2598.png",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": "Cherry",
+        "image": "https://purepng.com/public/uploads/large/purepng.com-cherriescherrygenus-prunussweet-cherryornamental-cherrycherry-blossomcherries-1701527197152yfcyg.png",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Grape",
+        "image": "http://pngimg.com/uploads/grape/grape_PNG2960.png",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "Blueberry",
+        "image": "http://pngimg.com/uploads/blueberries/blueberries_PNG50.png",
+        "count": 0
+    }
+]
